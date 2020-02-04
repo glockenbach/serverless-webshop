@@ -1,2 +1,2 @@
 # serverless-webshop
-A webshop built on serverless amazon components
+A webshop built on serverless aws resources
